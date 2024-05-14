@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('bkg.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: #333;
+}
+
+section h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section ul li {
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    text-align: center;
+    padding: 10px;
+}
